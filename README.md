@@ -5,3 +5,5 @@ A small javascipt application , that would pick a random RBG Color and give you 
 # Demo
 
 https://hdimessi.github.io/rgbcolorgame/
+
+![ScreenShot](https://zupimages.net/up/19/09/4s4q.png)
