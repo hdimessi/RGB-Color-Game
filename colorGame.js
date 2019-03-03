@@ -16,7 +16,7 @@ function init() {
   difficultyMode = 6;
   colors = generateRandomColors(difficultyMode);
   pickedColor = pickColor(colors);
-  colorDisplay = document.getElementById("colorDisplay");
+  colorDisplay.textContent = pickedColor;
   setUpSquares();
 }
 
